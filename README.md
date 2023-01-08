@@ -1,6 +1,6 @@
 <h3>Interests</h3>
-<p>My main interest is a future career in game development. However, program development is also on my interests.
-I am currently learning Java as well as Python Machine Learning and image manipulation.</p>
+<p>My main interest is a future career in game development or program development.
+I am currently at the stage of learning Java as well as Python Machine Learning and image manipulation.</p>
 <br>
 <p>I have a few ongoing projects, majority of which are private repositories. This includes, but is not limited to:
 <ul>
@@ -33,5 +33,8 @@ Comfortable programming in the following languages:</p>
 </a>
 <br><br>
 
-![Steam_Stats](https://steam-stat.vercel.app/api?profileName=Supermarcel10)
-![Commit_Stats](https://raw.githubusercontent.com/Supermarcel10/Supermarcel10/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+<div>
+  <img src="https://steam-stat.vercel.app/api?profileName=Supermarcel10" alt="Steam_Stats" style="float: left; width: 47%; max-height: 35%">
+  <img src="https://raw.githubusercontent.com/Supermarcel10/Supermarcel10/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Commit_Stats" style="float: left;  width: 50%; max-height: 35%">
+</div>
