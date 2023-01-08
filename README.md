@@ -1,19 +1,37 @@
-<h1>Hi, I’m Marcel!</h1>
-
 <h3>Interests</h3>
 <p>My main interest is a future career in game development. However, program development is also on my interests.
 I am currently learning Java as well as Python Machine Learning and image manipulation.</p>
+<br>
+<p>I have a few ongoing projects, majority of which are private repositories. This includes, but is not limited to:
+<ul>
+<li><b>[PYTHON/JAVA]</b> Discord bot integrating image manipulation and machine learning.</li>
+<li><b>[HTML/CSS/PHP]</b> Undisclosed website.</li>
+<li><b>[PHP]</b> Developing a custom addon for <a href="https://github.com/pterodactyl/panel">Pterodactyl Panel</a>.</li>
+<li><b>[JAVA]</b> Developing a custom bot for my Discord Server.</li>
+<li><b>[JAVA]</b> Collaborating on a Minecraft plugin with <a href="https://github.com/DevPanada>DevPanda"</a>. Project info can be found <a href="https://github.com/Minecraft-Modded-War/">here</a>!</li>
+</ul>
 
 <h3>Collaboration and work</h3>
-<p>Happy to collaborate on any projects, or practice my programming skills on any free work you'd like me to create.
-I'm also looking for a programming related job that would fit in my schedule.
+<p>I am happy to collaborate on any projects, or practice my programming skills on any assigned work I feel comfortable doing.
+Comfortable programming in the following languages:</p>
+<ul>
+<li>C#</li>
+<li>Java</li>
+<li>Python</li>
+<li>Lua</li>
+</ul>
 
-Reach out to me on my email: marcelbarlik@gmail.com</p>
+<br>
+<p>Reach out to me:</p><a href="mailto:marcelbarlik@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23EEEEFF.svg?logoColor=black&logo=gmail&style=for-the-badge" alt="Email">
+</a>
+<a href="https://www.reddit.com/user/Supermarcel10/">
+  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge">
+</a>
+<a href="https://discordapp.com/users/172360122197082115">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white&style=for-the-badge">
+</a>
+<br><br>
 
-<h3>Information</h3>
-<p>I do not provide public repositories of projects, but I am able to produce examples of work if requested.
-
-<!---
-Supermarcel10/Supermarcel10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Steam_Stats](https://steam-stat.vercel.app/api?profileName=Supermarcel10)
+![Commit_Stats](https://raw.githubusercontent.com/Supermarcel10/Supermarcel10/main/profile-3d-contrib/profile-night-rainbow.svg)
