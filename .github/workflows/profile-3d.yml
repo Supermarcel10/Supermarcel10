@@ -13,8 +13,8 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
-          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: ${{ secrets.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  }}
-          Supermarcel10: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ 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 }}
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
