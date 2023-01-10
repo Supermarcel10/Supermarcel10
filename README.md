@@ -22,19 +22,23 @@ Comfortable programming in the following languages:</p>
 </ul>
 
 <br>
-<p>Reach out to me:</p><a href="mailto:marcelbarlik@gmail.com">
+<p>Reach out to me:</p>
+<a href="mailto:marcelbarlik@gmail.com">
   <img src="https://img.shields.io/badge/Email-%23EEEEFF.svg?logoColor=black&logo=gmail&style=for-the-badge" alt="Email">
 </a>
-<a href="https://www.reddit.com/user/Supermarcel10/">
-  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge">
+<a href="https://www.linkedin.com/in/marcel-barlik-300b61184/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?logoColor=white&logo=linkedin&style=for-the-badge" alt="LinkedIn">
 </a>
 <a href="https://discordapp.com/users/172360122197082115">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white&style=for-the-badge">
+</a>
+<a href="https://www.reddit.com/user/Supermarcel10/">
+  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge">
 </a>
 <br><br>
 
 
 <div>
-  <img src="https://steam-stat.vercel.app/api?profileName=Supermarcel10" alt="Steam_Stats" style="float: left; width: 47%; max-height: 35%">
   <img src="https://raw.githubusercontent.com/Supermarcel10/Supermarcel10/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Commit_Stats" style="float: left;  width: 50%; max-height: 35%">
+  <img src="https://steam-stat.vercel.app/api?profileName=Supermarcel10" alt="Steam_Stats" style="float: left; width: 47%; max-height: 35%">
 </div>
