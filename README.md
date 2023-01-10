@@ -8,7 +8,7 @@ I am currently at the stage of learning Java as well as Python Machine Learning 
 <li><b>[HTML/CSS/PHP]</b> Undisclosed website.</li>
 <li><b>[PHP]</b> Developing a custom addon for <a href="https://github.com/pterodactyl/panel">Pterodactyl Panel</a>.</li>
 <li><b>[JAVA]</b> Developing a custom bot for my Discord Server.</li>
-<li><b>[JAVA]</b> Collaborating on a Minecraft plugin with <a href="https://github.com/DevPanada>DevPanda"</a>. Project info can be found <a href="https://github.com/Minecraft-Modded-War/">here</a>!</li>
+<li><b>[JAVA]</b> Collaborating on a Minecraft plugin with <a href="https://github.com/DevPanada">DevPanda</a>. Project info can be found <a href="https://github.com/Minecraft-Modded-War/">here</a>!</li>
 </ul>
 
 <h3>Collaboration and work</h3>
