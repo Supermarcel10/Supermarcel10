@@ -1,26 +1,35 @@
-<h3>Interests</h3>
-<p>My main interest is a future career in game development or program development.
-I am currently at the stage of learning Java as well as Python Machine Learning and image manipulation.</p>
-<br>
-<p>I have a few ongoing projects, majority of which are private repositories. This includes, but is not limited to:
-<ul>
-<li><b>[PYTHON/JAVA]</b> Discord bot integrating image manipulation and machine learning.</li>
-<li><b>[HTML/CSS/PHP]</b> Undisclosed website.</li>
-<li><b>[PHP]</b> Developing a custom addon for <a href="https://github.com/pterodactyl/panel">Pterodactyl Panel</a>.</li>
-</ul>
+# 👋 Hey there, I'm Marcel!
 
-<h3>Collaboration and work</h3>
-<p>I am happy to collaborate on any projects, or practice my programming skills on any assigned work I feel comfortable doing.
-Comfortable programming in the following languages:</p>
-<ul>
-<li>C#</li>
-<li>Java</li>
-<li>Python</li>
-<li>Lua</li>
-</ul>
+A second-year Computer Science undergrad, coding since the age of 13.
+I'm super passionate about creating things that could make a difference, one line of code at a time.
 
-<br>
-<p>Reach out to me:</p>
+## 💬 A little about me...
+
+### Here's what I'm all about:
+- 🌍 Making impact with my code
+- 🛠️ Building cool stuff in Java, Python, Lua, C#, and more
+- 💡 Mastering OOP and Asynchronous Programming
+
+### What I'm up to:
+- 🚀 Crafting personal projects (check out my repos!)
+- 📚 Merging academic learning with real-world coding
+- 🤝 Eager to collaborate on innovative projects
+
+### 📘 Languages I work with
+
+- **Java** (~1 year)
+- **Python** (~3 years, spread across different periods of time)
+- **C#** (~3 months, during a game development course)
+- **C++** (Currently learning)
+- **Lua** (~3 years, spread across different periods of time)
+
+## 🧭 Things I Want to Explore...
+- **JavaScript** 💻 - Keen to dive into the world of web dev
+- **React & Node** 🌐 - Eager to get hands-on with these for more dynamic web projects
+
+I'm all about learning by doing and pushing the boundaries of what I know.
+
+## 🗪 Got an idea or project in mind? Let's team up and make it happen! 🌟
 <a href="mailto:marcelbarlik@gmail.com">
   <img src="https://img.shields.io/badge/Email-%23EEEEFF.svg?logoColor=black&logo=gmail&style=for-the-badge" alt="Email">
 </a>
@@ -33,10 +42,10 @@ Comfortable programming in the following languages:</p>
 <a href="https://www.reddit.com/user/Supermarcel10/">
   <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge">
 </a>
-<br><br>
 
-
+## My stats...
 <div>
   <img src="https://raw.githubusercontent.com/Supermarcel10/Supermarcel10/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Commit_Stats" style="float: left;  width: 50%; max-height: 35%">
-  <img src="https://steam-stat.vercel.app/api?profileName=Supermarcel10" alt="Steam_Stats" style="float: left; width: 47%; max-height: 35%">
+  <img src="https://github-readme-stats.vercel.app/api?username=supermarcel10&show_icons=true&title_color=21295C&icon_color=1B3B6F&text_color=065A82&bg_color=ffffff" style="float:right; width: 47%; max-height: 35%"/>
+<!--   <img src="https://steam-stat.vercel.app/api?profileName=Supermarcel10" alt="Steam_Stats" style="float: left; width: 47%; max-height: 35%"> -->
 </div>
