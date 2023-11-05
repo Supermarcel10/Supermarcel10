@@ -44,8 +44,6 @@ I'm all about learning by doing and pushing the boundaries of what I know.
 </a>
 
 ## My stats...
-<div>
-  <img src="https://raw.githubusercontent.com/Supermarcel10/Supermarcel10/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Commit_Stats" style="float: left;  width: 50%; max-height: 35%">
-  <img src="https://github-readme-stats.vercel.app/api?username=supermarcel10&show_icons=true&title_color=21295C&icon_color=1B3B6F&text_color=065A82&bg_color=ffffff" style="float:right; width: 47%; max-height: 35%"/>
-<!--   <img src="https://steam-stat.vercel.app/api?profileName=Supermarcel10" alt="Steam_Stats" style="float: left; width: 47%; max-height: 35%"> -->
-</div>
+
+<img src="https://raw.githubusercontent.com/Supermarcel10/Supermarcel10/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Commit_Stats" style="float: left;  width: 45%; max-height: 35%">
+<!-- <img src="https://steam-stat.vercel.app/api?profileName=Supermarcel10" alt="Steam_Stats" style="float: left; width: 47%; max-height: 35%"> -->
