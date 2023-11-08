@@ -45,5 +45,6 @@ I'm all about learning by doing and pushing the boundaries of what I know.
 
 ## My stats...
 
+<a style="display:block; margin-bottom:2vh;" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSupermarcel10%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views+%28Today%2FAll+Time%29&edge_flat=false"/></a><br>
 <img src="https://raw.githubusercontent.com/Supermarcel10/Supermarcel10/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Commit_Stats" style="float: left;  width: 45%; max-height: 35%">
 <!-- <img src="https://steam-stat.vercel.app/api?profileName=Supermarcel10" alt="Steam_Stats" style="float: left; width: 47%; max-height: 35%"> -->
