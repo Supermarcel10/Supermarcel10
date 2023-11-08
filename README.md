@@ -29,7 +29,7 @@ I'm super passionate about creating things that could make a difference, one lin
 
 I'm all about learning by doing and pushing the boundaries of what I know.
 
-## 🗪 Got an idea or project in mind? Let's team up and make it happen! 🌟
+## 🗪 Got a project or idea in mind? Let's team up and make it happen! 🌟
 <a href="mailto:marcelbarlik@gmail.com">
   <img src="https://img.shields.io/badge/Email-%23EEEEFF.svg?logoColor=black&logo=gmail&style=for-the-badge" alt="Email">
 </a>
