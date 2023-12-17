@@ -18,9 +18,11 @@ I'm super passionate about creating things that could make a difference, one lin
 ### 📘 Languages I work with
 
 - **Java** (~1 year)
+- **Kotlin** (Currently Learning)
 - **Python** (~3 years, spread across different periods of time)
 - **C#** (~3 months, during a game development course)
-- **C++** (Currently learning)
+- **C++** (~2 months, currently learning)
+- **Go** (Currently Learning)
 - **Lua** (~3 years, spread across different periods of time)
 
 ## 🧭 Things I Want to Explore...
