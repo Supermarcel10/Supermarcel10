@@ -26,7 +26,7 @@ I'm super passionate about creating things that could make a difference, one lin
 - **Lua** (~3 years, spread across different periods of time)
 
 ## 🧭 Things I Want to Explore...
-- **JavaScript** 💻 - Keen to dive into the world of web dev
+- **JavaScript**, **Flask**, **Django** 💻 - Keen to dive into the world of web dev
 - **React & Node** 🌐 - Eager to get hands-on with these for more dynamic web projects
 
 I'm all about learning by doing and pushing the boundaries of what I know.
