@@ -24,6 +24,8 @@ I'm super passionate about creating things that could make a difference, one lin
 - **C++** (~2 months, currently learning)
 - **Go** (Currently Learning)
 - **Lua** (~3 years, spread across different periods of time)
+- **JavaSctipt** (~2 months)
+- **TypeScript** (~1 month)
 
 ## 🧭 Things I Want to Explore...
 - **JavaScript**, **Flask**, **Django** 💻 - Keen to dive into the world of web dev
