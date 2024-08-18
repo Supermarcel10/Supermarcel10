@@ -17,13 +17,12 @@ I'm super passionate about creating things that could make a difference, one lin
 
 ### 📘 Languages I work with
 
-- **Java** (~1 year)
-- **Kotlin** (Currently Learning)
-- **Python** (~3 years, spread across different periods of time)
-- **C#** (~3 months, during a game development course)
-- **C++** (~2 months, currently learning)
-- **Go** (Currently Learning)
-- **Lua** (~3 years, spread across different periods of time)
+- **Java** (~1.5 year)
+- **Rust** (Currently Learning)
+- **Python** (~3 years)
+- **C#** (~4 months)
+- **C++** (~3 months)
+- **Lua** (~3 years)
 - **JavaSctipt** (~2 months)
 - **TypeScript** (~1 month)
 
