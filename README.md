@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Marcel!
 
-A third-year Computer Science student, coding since the age of 13.
+A third-year Computer Science student, coding since the age of 13.<br/>
 Super passionate about creating things that could make a difference!
 
 ### 📘 Language-Agnostic
