@@ -2,7 +2,7 @@
 
 My programming journey started at age 13, and I’ve been building projects ever since.
 
-👔 Junior Engineer @ Trainline \
+👔 Engineer @ Trainline \
 🎒 Computer Science Graduate @ City St George's University \
 📝 Hobbyist Rust Developer
 
